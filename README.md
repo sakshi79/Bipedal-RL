@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="solved1.png" width="850" title="solved bipedal env">
+  <img src="solved1.png" width="1000" title="solved bipedal env">
 </p>
